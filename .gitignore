@@ -1,0 +1,5 @@
+# Exclude credential files
+wificonfig_secrets.h
+config.json
+.env
+credentials.txt
